@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.exe
+*.zip
+*.iml
+*.ipr.idea\
+python_stock_tool.egg-info\
+dist\
+build\
+.idea\
+python-stock-analysis.iml
+console.spec
+python-stock-tool.zip
+setup.spec
